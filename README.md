@@ -1,0 +1,4 @@
+VagrantConfiguration
+====================
+
+My Vagrant Configuration
